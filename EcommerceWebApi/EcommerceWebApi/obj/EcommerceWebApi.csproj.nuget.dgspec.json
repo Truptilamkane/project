@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shree\\source\\repos\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj": {}
+    "C:\\Users\\Shree\\Desktop\\project\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shree\\source\\repos\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj": {
+    "C:\\Users\\Shree\\Desktop\\project\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shree\\source\\repos\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Shree\\Desktop\\project\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj",
         "projectName": "EcommerceWebApi",
-        "projectPath": "C:\\Users\\Shree\\source\\repos\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj",
+        "projectPath": "C:\\Users\\Shree\\Desktop\\project\\EcommerceWebApi\\EcommerceWebApi\\EcommerceWebApi.csproj",
         "packagesPath": "C:\\Users\\Shree\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shree\\source\\repos\\EcommerceWebApi\\EcommerceWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Shree\\Desktop\\project\\EcommerceWebApi\\EcommerceWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shree\\AppData\\Roaming\\NuGet\\NuGet.Config",

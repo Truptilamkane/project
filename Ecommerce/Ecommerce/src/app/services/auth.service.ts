@@ -4,9 +4,9 @@ import { Router } from '@angular/router';
 
 @Injectable()
 export class AuthService {
-  private _registerUrl = "https://localhost:44323/api/Login/register";
-  private _loginUrl = "https://localhost:44323/api/Login/login";
-
+  private _registerUrl = "https://localhost:44323/api/Users/register";
+  private _loginUrl = "https://localhost:44323/api/Users/login";
+  private _userurl = "https://localhost:44323/api/Users";
   constructor(private http: HttpClient,private _router:Router) { }
 
   registerUser(user: any) {
@@ -23,5 +23,7 @@ export class AuthService {
     localStorage.removeItem('token');
     this._router.navigate(['/home']);
   }
-
+  getUsers() {
+    return this.http.get<any>(this._userurl);
+  }
 }
